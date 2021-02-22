@@ -1,0 +1,28 @@
+
+Lysozyme	Chicken	LYSC_CHICK p00698
+Lysozyme        Human LYSC_HUMAN p61626
+Hemoglobin-alpha	Human HBA_HUMAN p69905
+Hemoglobin-beta 	Human HBB_HUMAN p68871
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+[No Name][+] [unix] (23:59 31/12/1969)                                   3,1 All
+-- INSERT --
+
